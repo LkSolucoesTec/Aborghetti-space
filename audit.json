@@ -1,0 +1,17 @@
+{
+  "revision": "03",
+  "checks": {
+    "javascript_syntax_node": "passed",
+    "html_ids_unique": "pending_browser_validation",
+    "local_asset_paths": "passed",
+    "responsive_visual_test": "pending",
+    "video_sources": "not_provided",
+    "lead_capture_backend": "not_configured"
+  },
+  "notes": [
+    "Restored the abstract Three.js glass objects and animated haze without a logo or orbital rings.",
+    "Added the supplied desktop/mobile preloader images with a 4.5 second failsafe.",
+    "Added the supplied commercial PDF and client-side download interaction.",
+    "Video source URLs remain to be configured."
+  ]
+}
